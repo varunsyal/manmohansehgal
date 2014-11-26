@@ -1,0 +1,99 @@
+/*  This template was created by Mantis-a [http://www.mantisa.cz/]. For more templates visit Free website templates [http://www.mantisatemplates.com/]. */
+
+
+
+/* CSS Document */
+
+
+/* General */
+
+
+a:link, a:visited {
+color: #004F8B;
+text-decoration: underline;
+font-weight: bolder;
+}
+
+a:hover {
+text-decoration: none;
+}
+
+
+/* Wrapper */
+
+#wrapper {
+width: 850px;
+margin: 60px auto 0 auto;
+padding-bottom: 90px;
+text-align: left;
+}
+
+
+/* Headings, paragraphs */
+.title {height:20%;
+background-color: #FF0000;
+letter-spacing: 1px;                         
+width: 100%;                                                                             
+}
+
+
+
+
+h1 {
+font: normal 2.4em Georgia, "Times New Roman", Times, serif;
+color: #FFFFFF;
+padding-top: 25px;
+margin-left: 20px;
+}
+
+h2 {
+font: normal 1.5em Georgia, "Times New Roman", Times, serif;
+color: #004F8B;
+letter-spacing: 1px;
+background: url('.img/h2-bg.gif') no-repeat 0 53%;
+padding-left: 25px;
+margin-bottom: 7px;
+}*/
+
+
+
+
+/* Menu */
+
+ul.menu {
+list-style-type: none;
+}
+
+ul.menu li {
+padding: 30px 0;
+}
+
+ul.menu li a, ul.menu li a:visited {
+color: #FFFF00;
+font-weight: normal;
+font-size:20pt;
+text-decoration: none;
+
+}
+
+ul.menu li a:hover, ul.menu li a.active {
+background-color: #FF0000;
+}
+
+ul.menu li.last {
+background: none;
+}
+
+.column-left {background-color: #0000FF;
+float: left;
+width: 200px;
+height:450px;
+text-align: center;
+margin:0 0 0 0px;
+
+
+
+
+
+
+

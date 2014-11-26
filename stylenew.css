@@ -1,0 +1,422 @@
+/*  This template was created by Mantis-a [http://www.mantisa.cz/]. For more templates visit Free website templates [http://www.mantisatemplates.com/]. */
+
+
+
+/* CSS Document */
+
+
+/* General */
+
+
+body {
+/*background-color : darkgray;*/
+/*padding-left: 10pc;*/
+/*padding-right: 10pc;*/
+padding-top: 1pc;
+padding-bottom: 2pc;
+background-image: url(bg1.jpg);
+height: 100pc;
+}
+
+#Table_01{
+background-color: antiquewhite;
+margin-left: 8pc;
+margin-right: 8pc;
+margin-top: 4pc;
+margin-bottom: 4pc;
+}
+
+
+td#leftpad {
+width : 10pc;
+}
+
+
+td.main_title {
+color: brown;
+font-family: -webkit-pictograph;
+padding-right: 20px;
+font-size: 70px;
+/* padding-bottom: 20px; */
+padding-left: 20px;
+}
+
+td.subtitle {
+color : black;
+padding-right : 20px;
+font-size: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+font-family: cursive;
+}
+
+td.menu_item {
+text-align: center;
+border-left-color: antiquewhite;
+border-left-width: 1px;
+border-left-style: inset;
+border-color: antiquewhite;
+text-align : center;
+border-left: 1px solid antiquewhite;
+/*border-right: 1px solid #FFFFFF;*/
+width: 11pc;
+}
+
+tr.menu_row{
+background-color: #A52A2A;
+color: white;
+text-align: center;
+border-left-color: antiquewhite;
+border-left-width: 5px;
+border-left-style: groove;
+font-size: 18px;
+height: 27px;
+}
+
+#pic1 {
+padding-top: 4px;
+padding-left: 4px;
+padding-bottom: 8px;
+height: 201px;
+width: 168px;
+}
+
+#maindiv{
+padding-left : 20px;
+padding-top : 20px;
+padding-bottom : 20px;
+padding-right : 20px;
+}
+
+#gallery{
+margin-top : 13px;
+}
+
+#intro{
+margin-top: 24px;
+margin-left: 6pc;
+margin-right: 6pc;
+font-size: 27px;
+margin-bottom: 20px;
+border-top: rgb(160, 160, 160);
+border-top-width: 2px;
+border-top-style: dotted;
+padding-top: 13px;
+
+border-bottom: rgb(160, 160, 160);
+border-bottom-width: 2px;
+border-bottom-style: dotted;
+padding-bottom: 13px;
+}
+
+#ggspic{
+float: left;
+padding-left: 45px;
+padding-right: 20px;
+}
+#hindi_intro{
+font-family : Narad;
+}
+
+#separator{
+width:1006px;
+border-bottom:3px solid #777;
+margin-left:12px;
+margin-right:12px;
+}
+
+tr.menu_row{
+background-color: brown;
+color: white;
+text-align: center;
+font-size: 18px;
+height: 35px;
+}
+
+table{
+/*background-color : white;*/
+
+}
+
+#news{
+padding-bottom: 47px;
+}
+
+
+a:link, a:visited {
+/*color: #004F8B;*/
+color:white;
+text-decoration: underline;
+font-weight: bolder;
+}
+
+a#pg:link, a#pg:visited {
+/*color: #004F8B;*/
+color:black;
+text-decoration: underline;
+font-weight: bolder;
+}
+
+a#pg:hover {
+color:;
+/*text-decoration: ;*/
+}
+
+a:hover {
+color:yellow;
+/*text-decoration: ;*/
+}
+
+#tablespace01{
+font-family : NewDelhi;
+padding-left: 6pc;
+}
+
+#pcell{
+font-weight: bold;
+width: 53pc;
+font-family: NewDelhi;
+font-size: 24px;
+/* text-align: center; */
+border-bottom-style: dotted;
+border-bottom-width: 1px;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+
+#pcell1{
+width: 2pc;
+font-family: arial;
+font-size: 24px;
+/* text-align: center; */
+border-bottom-style: dotted;
+border-bottom-width: 1px;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+
+#pcell_1{
+width: 2pc;
+font-family: arial;
+font-size: 24px;
+/* text-align: center; */
+border-bottom-style: dotted;
+border-bottom-width: 1px;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+
+#pcell2{
+font-weight: bold;
+width: 27pc;
+font-size: 24px;
+/* text-align: center; */
+border-bottom-style: dotted;
+border-bottom-width: 1px;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+
+#pcell_2{
+font-weight: bold;
+width: 36pc;
+font-size: 24px;
+/* text-align: center; */
+border-bottom-style: dotted;
+border-bottom-width: 1px;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+
+#pcell3{
+width: 16pc;
+font-size: 24px;
+/* text-align: center; */
+border-bottom-style: dotted;
+border-bottom-width: 1px;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+
+#pcell_3{
+width: 13pc;
+font-size: 24px;
+/* text-align: center; */
+border-bottom-style: dotted;
+border-bottom-width: 1px;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+
+#pcell4{
+font-family: arial;
+width: 8pc;
+font-size: 24px;
+/* text-align: center; */
+border-bottom-style: dotted;
+border-bottom-width: 1px;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+
+#prizes{
+font-family: NewDelhi;
+font-size: 24px;
+padding-left: 10pc;
+padding-right: 10pc;
+}
+
+#prizecell{
+font-family: NewDelhi;
+padding-bottom: 10px;
+padding-top: 10px;
+border-bottom: 2px;
+border-bottom-style: groove;
+font-size: 26px;
+}
+
+#prizecell2{
+font-family: NewDelhi;
+padding-bottom: 10px;
+padding-top: 10px;
+padding-left:10px;
+border-bottom: 2px;
+border-bottom-style: groove;
+font-size: 26px;
+}
+
+#prizehead{
+font-size: 43px;
+color: brown;
+text-align: center;
+}
+
+#phead{
+font-weight: bolder;
+font-family: NewDelhi;
+font-size: 34px;
+text-align: center;
+padding-bottom: 7px;
+padding-top: 7px;
+border-top: darkgray;
+border-top-width: thick;
+border-top-style: groove;
+margin-right: 20px;
+border-bottom: darkgray;
+border-bottom-width: thick;
+border-bottom-style: groove;
+margin-left: 20px;
+}
+
+img.bookimg{
+width: 200px;
+height: 254px;
+}
+
+div.bookdiv{
+text-align: center;
+width: 22pc;
+height: 419px;
+float: left;
+}
+
+#bghead{
+font-size: 47px;
+font-family: cursive;
+text-align: center;
+color: darkgoldenrod;
+padding-bottom: 20px;
+padding-top: 10px;
+}
+
+#pagerow{
+margin-left: 53px;
+width: 60pc;
+height: 23px;
+padding-top: 9px;
+text-align: center;
+border-bottom-style: groove;
+border-top-style: groove;
+}
+
+#pagediv{
+float:left;
+}
+
+/*
+
+#wrapper {
+width: 850px;
+margin: 60px auto 0 auto;
+padding-bottom: 90px;
+text-align: left;
+}
+
+
+// Headings, paragraphs 
+.title {height:20%;
+background-color: #FF0000;
+letter-spacing: 1px;                         
+width: 100%;                                                                             
+}
+
+
+
+
+h1 {
+font: normal 2.4em Georgia, "Times New Roman", Times, serif;
+color: #FFFFFF;
+padding-top: 25px;
+margin-left: 20px;
+}
+
+h2 {
+font: normal 1.5em Georgia, "Times New Roman", Times, serif;
+color: #004F8B;
+letter-spacing: 1px;
+background: url('.img/h2-bg.gif') no-repeat 0 53%;
+padding-left: 25px;
+margin-bottom: 7px;
+}
+
+
+
+// Menu 
+
+ul.menu {
+list-style-type: none;
+}
+
+ul.menu li {
+padding: 30px 0;
+}
+
+ul.menu li a, ul.menu li a:visited {
+color: #FFFF00;
+font-weight: normal;
+font-size:20pt;
+text-decoration: none;
+
+}
+
+ul.menu li a:hover, ul.menu li a.active {
+background-color: #FF0000;
+}
+
+ul.menu li.last {
+background: none;
+}
+
+.column-left {background-color: #0000FF;
+float: left;
+width: 200px;
+height:450px;
+text-align: center;
+margin:0 0 0 0px;
+*/
+
+
+
+
+
+
